@@ -1,0 +1,1 @@
+Date and Time             |Up Time                            |Ram Usage   |CPU Usage |WAN IP         |SSID Data(2.4 GHz)       |Channel(2.4 GHz)|Bandwidth (2.4 GHz)       |SSID Data (5 GHz)       |Channel(5 GHz)|Bandwidth (5 GHz)         |Download   |Upload     |
